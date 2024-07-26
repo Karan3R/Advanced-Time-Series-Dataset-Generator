@@ -1,0 +1,7 @@
+#requirements
+
+R
+Shiny
+ggplot2
+dplyr
+shinythemes
