@@ -1,0 +1,2 @@
+# Advanced Time Series Dataset Generator
+ A comprehensive tool to generate advanced time series datasets based on user input parameters. Users can specify the range, length, trend type (increasing, decreasing, seasonal, random walk), noise level, and unit. The tool will generate the dataset, provide summary statistics, allow customization of plots, and offer the option to download the dataset as a CSV file.
